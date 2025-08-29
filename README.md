@@ -28,9 +28,12 @@ I thrive on blending creativity with technology, using modern tools like JavaScr
 
 ## 🌐 Connect With Me
 - 📧 Email: itumasuccess29@gmail.com  
-- 🔗 LinkedIn:  
-- 🐦 Twitter: 
-- 🌍 Portfolio: 
+- 🔗 LinkedIn: in/success-ituma-4176ba263
+- 🐦 Twitter: https://x.com/Sucxess_It
+<!-- - 📘 Facebook:
+- 📸 Instagram:
+- ▶️ YouTube:
+- 🌍 Portfolio: -->
 
 
 ✨ *"Development isn't just about writing code; it's about crafting solutions that shape the future."*  
