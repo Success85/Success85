@@ -28,8 +28,8 @@ I thrive on blending creativity with technology, using modern tools like JavaScr
 
 ## 🌐 Connect With Me
 - 📧 Email: itumasuccess29@gmail.com  
-- 🔗 LinkedIn: in/success-ituma-4176ba263
-- 🐦 Twitter: https://x.com/Sucxess_It
+- 🔗 LinkedIn: https://www.linkedin.com/in/success-ituma-4176ba263
+- 🐦 Twitter: @Sucxess_It
 <!-- - 📘 Facebook:
 - 📸 Instagram:
 - ▶️ YouTube:
