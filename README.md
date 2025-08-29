@@ -6,21 +6,17 @@ I am a solution-driven Software Engineer with over 3 years of experience turning
 
 I thrive on blending creativity with technology—using modern tools like JavaScript, React, Node.js, Laravel, and Python to design solutions that empower individuals, businesses, and communities. Beyond writing code, I focus on driving results: leading projects, collaborating across teams, optimizing workflows, and mentoring peers. I believe that technology should not only innovate but also serve humanity by making security, opportunity, and progress accessible to all.  
 
-
 ## 🚀 About Me
 - 🌱 Currently expanding my expertise in **Python, Node.js, Cybersecurity and AI-powered systems**  
 - 👯 Open to collaborations on **fullstack applications, open-source contributions, and impactful projects**  
 - 💡 Exploring ideas that combine **software engineering with security and human-centered innovation**  
 - 🎯 Long-term goal: Grow into a **global tech expert** and create solutions that shape industries and change lives  
 
-
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries:** Django, React, Node.js, Laravel, Express.js  
 - **Databases:** MySQL, MongoDB  
 - **Other Tools:** Git, GitHub, Figma, VS Code  
-
----
 
 <!--## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Success85&show_icons=true&theme=radical)
