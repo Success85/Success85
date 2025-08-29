@@ -25,8 +25,9 @@ I thrive on blending creativity with technology—using modern tools like JavaSc
 ---
 
 ## 📊 GitHub Stats
-![Success's GitHub stats](https://github-readme-stats.vercel.app/api?Success85=Success85&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Success85=Success85&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Success85&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theoneste1&layout=compact&theme=radical)
+
 
 ---
 
