@@ -6,7 +6,6 @@ I am a solution-driven Software Engineer with over 3 years of experience turning
 
 I thrive on blending creativity with technology—using modern tools like JavaScript, React, Node.js, Laravel, and Python to design solutions that empower individuals, businesses, and communities. Beyond writing code, I focus on driving results: leading projects, collaborating across teams, optimizing workflows, and mentoring peers. I believe that technology should not only innovate but also serve humanity by making security, opportunity, and progress accessible to all.  
 
----
 
 ## 🚀 About Me
 - 🌱 Currently expanding my expertise in **Python, Node.js, Cybersecurity and AI-powered systems**  
@@ -14,7 +13,6 @@ I thrive on blending creativity with technology—using modern tools like JavaSc
 - 💡 Exploring ideas that combine **software engineering with security and human-centered innovation**  
 - 🎯 Long-term goal: Grow into a **global tech expert** and create solutions that shape industries and change lives  
 
----
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, PHP, HTML, CSS  
@@ -37,7 +35,7 @@ I thrive on blending creativity with technology—using modern tools like JavaSc
 - 🔗 LinkedIn:  
 - 🐦 Twitter: 
 - 🌍 Portfolio: 
----
+
 
 ✨ *"Development isn't just about writing code; it's about crafting solutions that shape the future."*  
 
